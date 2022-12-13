@@ -1,7 +1,5 @@
 # streamlit_car_price_app
 
-# streamlit_car_price_app
-
 웹 대시보드 개발 방법
 
 1. 분석할 데이터 준비한다.
