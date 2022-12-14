@@ -7,7 +7,7 @@ import seaborn as sb
 
 def run_eda_app() :
 
-    df = pd.read_csv('../../YH/YH_python/data/Car_Purchasing_Data.csv',encoding = 'ISO-8859-1')
+    df = pd.read_csv('data/Car_Purchasing_Data.csv', encoding='ISO-8859-1')
 
     st.subheader('데이터프레임 확인')
     st.dataframe(df.head(3))
